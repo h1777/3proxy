@@ -10,10 +10,10 @@ Download, make executable and run with these lines :
     ./3proxyinstaller.sh
 
 After install : CHANGE DEFAULT USERNAME AND PASSWORD !!! 
+Example: johndoe:CL:johndoepassword123
 
     nano /etc/3proxy/.proxyauth
-    Example: johndoe:CL:johndoepassword123
-   
+      
 Once you've change the username / password you can start the proxy 
 (or reboot the VPS as 3proxy has been added to the init scripts and will autostart)
 
