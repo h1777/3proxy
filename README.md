@@ -10,6 +10,7 @@ Download, make executable and run with these lines :
     ./3proxyinstaller.sh
 
 After install : CHANGE DEFAULT USERNAME AND PASSWORD !!! 
+
 Example: johndoe:CL:johndoepassword123
 
     nano /etc/3proxy/.proxyauth
