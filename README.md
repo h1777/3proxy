@@ -20,6 +20,9 @@ Once you've change the username / password you can start the proxy
 
     /etc/init.d/3proxyinit start
 
+
+
+
 You can also change the port, default is 3128 (OPTIONAL)
 
     nano /etc/3proxy/3proxy.cfg
