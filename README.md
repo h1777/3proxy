@@ -5,7 +5,7 @@
 
 Download, make executable and run with these lines :
 
-    wget --no-check-certificate https://raw.github.com/h1777/3proxy/master/3proxyinstaller.sh
+    wget --no-check-certificate https://raw.github.com/h1777/3proxy-deb/master/3proxyinstaller.sh
     chmod +x 3proxyinstaller.sh
     ./3proxyinstaller.sh
 
@@ -29,7 +29,7 @@ You can also change the port, default is 3128 (OPTIONAL)
     	
 For Uninstall Download, make executable and run with these lines :
 
-	wget --no-check-certificate https://raw.github.com/h1777/3proxy/master/3proxyuninst.sh
+	wget --no-check-certificate https://raw.github.com/h1777/3proxy-deb/master/3proxyuninst.sh
 	chmod +x 3proxyuninst.sh
 	./3proxyuninst.sh
 
