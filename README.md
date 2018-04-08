@@ -1,4 +1,4 @@
-3proxy install script for Debian / Ubuntu VPS (ver 0.8.10)
+3proxy as HTTP proxy install script for Debian / Ubuntu VPS (ver 0.8.11)
 ======================================================
 
 **HOW TO :**
