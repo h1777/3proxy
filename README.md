@@ -3,11 +3,20 @@
 
 **HOW TO :**
 
-Download, make executable and run with these lines :
+To download and install run a) or b) if using single IP or multiple Ip's configuration:
+
+a)
 
     wget --no-check-certificate https://raw.github.com/h1777/3proxy-deb/master/3proxyinstaller.sh
     chmod +x 3proxyinstaller.sh
     ./3proxyinstaller.sh
+    
+b)
+
+    wget --no-check-certificate https://raw.github.com/h1777/3proxy-deb/master/3proxyinstallerX.sh
+    chmod +x 3proxyinstallerX.sh
+    ./3proxyinstallerX.sh
+
 
 After install : CHANGE DEFAULT USERNAME AND PASSWORD !!! 
 
@@ -23,7 +32,7 @@ Once you've change the username / password you can start the proxy
 
 
 
-You can also change the port, default is 3128 (OPTIONAL)
+You can also change the port, default is 3128 (OPTIONAL but you should change it)
 
     nano /etc/3proxy/3proxy.cfg
     	
