@@ -8,9 +8,9 @@ cd src
 mkdir /etc/3proxy/
 mv 3proxy /etc/3proxy/
 cd /etc/3proxy/
-wget --no-check-certificate https://raw.githubusercontent.com/h1777/3proxy-deb/master/3proxymultipleIPs.cfg
-chmod 600 /etc/3proxy/3proxymultipleIPs.cfg
-mv 3proxymultipleIPs.cfg 3proxy.cfg
+wget --no-check-certificate https://raw.githubusercontent.com/h1777/3proxy-deb/master/3proxy_multipleIPs.cfg
+chmod 600 /etc/3proxy/3proxy_multipleIPs.cfg
+mv 3proxy_multipleIPs.cfg 3proxy.cfg
 wget --no-check-certificate https://raw.githubusercontent.com/h1777/3proxy-deb/master/.proxyauth
 chmod 600 /etc/3proxy/.proxyauth
 cd /etc/init.d/
